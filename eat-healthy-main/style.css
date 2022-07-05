@@ -1,5 +1,5 @@
 .orange{
-    color: brown;
+    color:rgb(251, 0, 134);
 }
 body{
     font-family: 'Playfair Display', serif;
@@ -20,13 +20,24 @@ section{
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(yellow,green);
+    background-image: linear-gradient(pink,hotpink);
     padding: 10px 20px;
     border-radius: 10%;
 
 }
+.link-button2{
+    text-decoration: none;
+    background-image: linear-gradient(aqua,blue);
+    padding:10px 20px;
+    border-radius: 10%;
+}
 .top-bener{
     background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    margin: 0%;
+}
+.top-bener2{
+    background-image: url(images/shapes/Frame\ 58.jpg);
     background-repeat: no-repeat;
     margin: 0%;
 }
