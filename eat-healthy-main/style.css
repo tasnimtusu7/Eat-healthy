@@ -1,0 +1,32 @@
+.orange{
+    color: brown;
+}
+body{
+    font-family: 'Playfair Display', serif;
+font-family: 'Roboto Slab', serif;
+}
+h1{
+    font-size: 250%;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width:50%;
+    padding-left: 10%;
+}
+.half-width img{
+    width:80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(yellow,green);
+    padding: 10px 20px;
+    border-radius: 10%;
+
+}
+.top-bener{
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    margin: 0%;
+}
